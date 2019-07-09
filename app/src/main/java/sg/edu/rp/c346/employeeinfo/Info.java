@@ -27,7 +27,7 @@ public class Info {
         this.name = name;
     }
 
-    public void setRole(String date) {
+    public void setRole(String role) {
         this.role = role;
     }
 
